@@ -4,4 +4,4 @@ https://www.youtube.com/channel/UCE_w6FxGfRKH2fU76raVeog?view_as=subscriber
 
 https://vk.com/from_0_to_1
 
-Верстка учебного макета bislite — https://pavelprais.github.io/bislite/
+Верстка учебного макета bislite (десктоп/адаптив) — https://pavelprais.github.io/bislite/
